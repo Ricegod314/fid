@@ -44,16 +44,16 @@ nav a:hover {
 }
 
 footer {
- border-top: 1px solid #57b1dc;
- text-align: center;
- padding-top: 1em;
+    border-top: 1px solid #57b1dc;
+    text-align: center;
+    padding-top: 1em;
 }
 
 footer img {
- width: 40px;
- height: 40px;
- margin-left: .5em;
- margin-right: .5em;
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
 } 
 
 dt {
@@ -64,3 +64,16 @@ dt {
 dd {
     margin-bottom: 10px;
 }
+
+.pizzabutton {
+    border: 3px solid #57b1dc;
+    border-radius: 10px;
+    background-color: #ff7f6e;
+    color: white;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 40px;
+}
+
