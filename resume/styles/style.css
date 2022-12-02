@@ -1,0 +1,53 @@
+h1 {
+    font-family: monospace;
+    font-size: 40px;
+}
+
+h2 {
+    font-family:cursive;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+h4, h3 {
+    margin-bottom: 5px;
+    margin-top: 0;
+    font-family: sans-serif
+}
+
+p {
+    margin: 5 0 20;
+    font-family: sans-serif;
+}
+
+li {
+    font-family: monospace;
+}
+
+h4 {
+    color: dimgray;
+}
+
+img {
+    border: 2px solid black;
+    margin: 0 20px;
+}
+
+.dashed {
+    border-bottom: 2px dashed black;
+    margin-bottom: 20px;
+}
+ 
+.gallery {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
