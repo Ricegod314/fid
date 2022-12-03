@@ -36,6 +36,7 @@ nav a {
     text-decoration: none;
     color: #ff7f6e;
     font-size: 18px;
+    transition: 0.5s;
 }
 
 nav a:hover {
@@ -75,5 +76,25 @@ dd {
     padding-left: 10px;
     padding-right: 10px;
     margin-bottom: 40px;
+    transition: 0.5s;
 }
 
+.pizzabutton:hover {
+    background-color: #57b1dc;
+}
+
+footer ul{
+    list-style: none;
+}
+
+footer li {
+    display: inline-block;
+    transition: 0.5s;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+footer li:hover {
+    border-bottom: 2px solid black;
+    background-color: #57b1dc;
+}
